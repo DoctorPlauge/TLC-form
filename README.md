@@ -1,1 +1,1 @@
-# link is doctorplauge.github.io/wolf-branch
+# doctorplauge.github.io/wolf-branch
